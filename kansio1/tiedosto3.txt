@@ -1,1 +1,3 @@
 Hello Git again, i am hinding in a folder
+
+git add -p muutos

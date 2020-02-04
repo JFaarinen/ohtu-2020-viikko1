@@ -1,2 +1,3 @@
 Hello Bub!
 muoks kaks.
+git add -p 2

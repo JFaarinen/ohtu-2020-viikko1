@@ -1,2 +1,4 @@
 Hello Git again
 muoks.
+
+git add -p 1
