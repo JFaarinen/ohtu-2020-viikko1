@@ -39,7 +39,7 @@ public class VarastoTest {
     @Test
     public void kuormitettuKonstruktoriEiLuoVirheellistaVarastoa() {
         //Varaston koko ei voi olla negatiivinen
-        assertEquals(-1, varasto4.getTilavuus(), vertailuTarkkuus);
+        assertEquals(0, varasto4.getTilavuus(), vertailuTarkkuus);
     }
 
     @Test
