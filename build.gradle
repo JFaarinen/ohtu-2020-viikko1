@@ -36,7 +36,7 @@ mainClassName = 'main.Main'
 //Jar paketin luominen
 jar {
     manifest {
-        attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
+        attributes 'Main-Class': 'main.Main'
     }
 }
 
