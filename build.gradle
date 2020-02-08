@@ -15,6 +15,14 @@ apply plugin: 'application'
 //JaCoCo rivikattavuus
 apply plugin: "jacoco"
 
+//Liitetään JaCoCo -testiraportti Codecov:iin
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        html.enabled true
+    }
+}
+
 // In this section you declare where to find the dependencies of your project
 repositories {
     // Use jcenter for resolving your dependencies.
