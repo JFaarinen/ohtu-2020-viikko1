@@ -17,6 +17,18 @@ public class Main {
         testaaGetterit("Olut", olutta);
         testaaSetterit("Mehu", mehua);
         testaaVirhetilanteita();
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         testaaLisays("Olut", olutta, 1000.0);
         testaaLisays("Mehu", mehua, -666.0);
         testaaOtto("Olut", olutta, 1000);
